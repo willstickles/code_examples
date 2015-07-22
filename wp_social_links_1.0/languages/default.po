@@ -1,0 +1,124 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SOE Whats New\n"
+"POT-Creation-Date: 2013-02-20 14:44-0500\n"
+"PO-Revision-Date: 2013-02-20 14:44-0500\n"
+"Last-Translator: 723Media <info@723media.com>\n"
+"Language-Team: SOE Software\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ./views\n"
+"X-Poedit-SearchPath-2: ./widgets\n"
+
+#: soe_whats_new.php:92 soe_whats_new.php:93 soe_whats_new.php:105
+msgid "What's New"
+msgstr ""
+
+#: soe_whats_new.php:94
+msgid "What's New Items"
+msgstr ""
+
+#: soe_whats_new.php:95
+msgid "Add New"
+msgstr ""
+
+#: soe_whats_new.php:96
+msgid "Add New What's New item"
+msgstr ""
+
+#: soe_whats_new.php:97
+msgid "Edit"
+msgstr ""
+
+#: soe_whats_new.php:98
+msgid "Edit What's New Item"
+msgstr ""
+
+#: soe_whats_new.php:99
+msgid "New What's New Item"
+msgstr ""
+
+#: soe_whats_new.php:100
+msgid "View Item"
+msgstr ""
+
+#: soe_whats_new.php:101
+msgid "Search What's New Item"
+msgstr ""
+
+#: soe_whats_new.php:102
+msgid "Nothing found"
+msgstr ""
+
+#: soe_whats_new.php:103
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: soe_whats_new.php:110
+msgid "Creates a custom whats new post type"
+msgstr ""
+
+#: soe_whats_new.php:138
+msgid "Custom Information"
+msgstr ""
+
+#: soe_whats_new.php:222
+msgid "Title"
+msgstr ""
+
+#: soe_whats_new.php:223
+msgid "External Link"
+msgstr ""
+
+#: soe_whats_new.php:224
+msgid "Internal Link"
+msgstr ""
+
+#: soe_whats_new.php:225
+msgid "Sort Order"
+msgstr ""
+
+#: soe_whats_new.php:241 soe_whats_new.php:278
+msgid "Could not verify nonce"
+msgstr ""
+
+#: soe_whats_new.php:284
+msgid "No row data provided"
+msgstr ""
+
+#: soe_whats_new.php:330
+msgid "SOE Whats New has already been set up."
+msgstr ""
+
+#: views/entry.php:10
+msgid "Link to external page"
+msgstr ""
+
+#: views/entry.php:14
+msgid "Link to internal page"
+msgstr ""
+
+#: widgets/WhatsNewWidget.php:10
+msgid "Displays list of what's new items"
+msgstr ""
+
+#: widgets/WhatsNewWidget.php:60
+msgid "There are no new items"
+msgstr ""
+
+#: widgets/WhatsNewWidget.php:84
+msgid "New Title"
+msgstr ""
+
+#: widgets/WhatsNewWidget.php:88
+msgid "Title:"
+msgstr ""
+
+#: widgets/WhatsNewWidget.php:92
+msgid "Number of items to display:"
+msgstr ""
