@@ -1,0 +1,26 @@
+label{
+    padding: 10px 0 10px 0;
+}
+
+input{
+    margin: 10px 10px 10px 0;
+}
+
+/*.button{*/
+    /*width: 95px;*/
+    /*height: 25px;*/
+    /*padding: 10px;*/
+/*}*/
+
+.hidden{
+    visibility: hidden;
+}
+
+.ui-datepicker { background:#fff; border:1px solid #e0e0e0; border-radius: 3px; padding:4px 8px; width:250px; }
+.ui-datepicker-header { background:#f9f9f9; border-radius:3px; overflow:hidden; text-align:center; }
+.ui-datepicker-prev { float:left; width:20%; }
+.ui-datepicker-next { float:right; width:20%; }
+.ui-datepicker-next .ui-icon,
+.ui-datepicker-prev .ui-icon { cursor:pointer; font-size:.75em;text-indent:0 !important; }
+.ui-datepicker .ui-datepicker-calendar { width:100%; }
+.ui-datepicker .ui-datepicker-calendar tbody td{ text-align:right; }
