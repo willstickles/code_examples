@@ -1,0 +1,28 @@
+#whats-new-meta .inside {
+    overflow:hidden;
+}
+
+.wp-meta-wrapper label {
+	display:block;
+}
+
+.wp-meta-field {
+    float:left;
+	margin:10px auto;
+    width:50%;
+}
+
+.wp-meta-field input,
+.wp-meta-field select {
+    width:90%;
+}
+
+.sortable-helper {
+	background:#fffbcc;
+    border:1px solid #e6db55;
+	width:100%;
+}
+
+.sortable-helper td {
+    border:none;
+}
